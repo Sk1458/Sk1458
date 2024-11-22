@@ -28,9 +28,9 @@
 
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sk1458&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sk1458&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1458&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=Sk1458&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sk1458&theme=neon&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1458&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk1458" alt="sk1458" /></a> </p> -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Sk1458&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
